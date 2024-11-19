@@ -21,7 +21,9 @@ Download the BlockMesh Web Extension here: [BlockMesh Extension](https://chromew
 ### 2. Create and Earn
 
 Create your account here: [BlockMesh](https://app.blockmesh.xyz/register?invite_code=bluedawn)
+
 Login your dashboard. BlockMesh runs seamlessly in the background with user controlled quotas.
+
 ### 3. Share
 Stay connected to earn constantly. Boost your earnings with referrals.
 
