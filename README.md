@@ -29,12 +29,7 @@ Stay connected to earn constantly. Boost your earnings with referrals.
 The BlockmMesh Farming Tool is a utility that allows you to simulate multiple computers to farm points for Blockmesh using just proxies and a single computer.
 
 ## How to using BlockMesh Farming Tool? <a name="paragraph4"></a>
-1. Fill in your **login.txt** format:
-
-```email1:password1``` 
-```email2:password2```
-
-(make sure you can login on dashboard)
+1. Fill in your **login.txt** format:```email1:password1``` (make sure you can login on dashboard)
 
 3. Fill in **proxies.txt** using the format: `http://user:pass@ip:port`. Any kind of proxies can be used, including IPv6.
 
