@@ -41,6 +41,6 @@ This is a **FREE** version, you can run up to 2 account.
 
 Why 10 proxies maximu per account ? Because 10 proxies provide the best performance for BlockMesh, not wasting your proxies.
 
-To active HWID of free version, please active via bot: https://t.me/Depin_WibCrypto_DEMOBOT (The bot not active yet)
+To active HWID of free version, please active via bot: https://t.me/Depin_WibCrypto_DEMOBOT
 
 For full version, please contact https://t.me/inanitynoupcase or https://t.me/Vpooopooo
