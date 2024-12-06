@@ -6,8 +6,6 @@
 5. [How to using BlockMesh Farming Tool?](#paragraph4)
 6. [Note](#paragraph5)
 
-##  UPDATE: OUTDATED <a name=""></a>
-
 ## What is BlockMesh ?<a name="introduction"></a>
 
 BlockMesh, is an innovative, open and secure network that allows you to easily monetize your excess bandwidth. Giving you a great opportunity to passively profit and participate in the frontline of AI data layer, online privacy, open source and blockchain industries.
@@ -35,13 +33,17 @@ The BlockmMesh Farming Tool is a utility that allows you to simulate multiple co
 ## How to using BlockMesh Farming Tool? <a name="paragraph4"></a>
 1. Fill in your **login.txt** format:```email1:password1``` (make sure you can login on dashboard)
 
-3. Fill in **proxies.txt** using the format: `http://user:pass@ip:port`. Any kind of proxies can be used, including IPv6.
+2. Fill in **proxies.txt** using the format: `http://user:pass@ip:port`. Dont use datacenter proxy.
 
+3. Run first time will generate hwid.txt, active your hwid at https://t.me/Depin_WibCrypto_DEMOBOT
+ 
 4. Run **blockmesh.exe** and enjoy !
 ## Note: <a name="paragraph5"></a>
-This is a **FREE** version, you can run up to 2 account.
+This is a **FREE** version, you can run up to 3 account.
 
-Why 10 proxies maximu per account ? Because 10 proxies provide the best performance for BlockMesh, not wasting your proxies.
+Blockmesh limit daliy point so, use more than 1 proxy = waste.
+
+If you want to change the number of accounts, delete the token.txt file.
 
 To active HWID of free version, please active via bot: https://t.me/Depin_WibCrypto_DEMOBOT
 
